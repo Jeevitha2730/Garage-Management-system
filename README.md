@@ -1,1 +1,2 @@
 # Garage-Management-system
+The Garage Management System (GMS) is a software solution designed to streamline operations in automotive repair facilities. It automates tasks like scheduling appointments, managing inventory, processing billing, and tracking service statuses, all through an intuitive interface. With GMS, garages can improve operational efficiency, enhance customer satisfaction, and gain insights through real-time reporting, enabling them to deliver top-quality service and maintain a competitive edge in the industry.
